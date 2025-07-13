@@ -50,3 +50,9 @@ Practiced responsive design using media queries and flex/grid layout
 Gained experience in DOM manipulation and UI state handling
 Understood how to simulate user learning progress using JS logic
 
+SCREENSHOT
+<img width="1678" height="991" alt="Image" src="https://github.com/user-attachments/assets/054f2f00-2321-450f-b0fb-ce857ddf8012" />
+<img width="1691" height="1026" alt="Image" src="https://github.com/user-attachments/assets/a2af85ba-7154-47c5-89d3-9b2b0cc1af6e" />
+<img width="1776" height="1024" alt="Image" src="https://github.com/user-attachments/assets/4d4a2699-bc67-49c0-9607-e8e5bcd1bc6d" />
+<img width="1623" height="1009" alt="Image" src="https://github.com/user-attachments/assets/b8d99e29-e101-4be2-874b-983976a3dd85" />
+
